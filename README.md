@@ -18,10 +18,11 @@
 ## Detalūs funkcijų aprašai
 	Žemiau pateiktoje lentelėje yra matomi visų funkcijų (veiksmų, klasių) aprašai. Nurodoma, ką kiekviena funkcija atlieka, jos rezultatas bei įvesties parametrų reikšmės.
 
-![image](https://user-images.githubusercontent.com/32612736/114272284-3e4f1a80-9a1e-11eb-8cda-e199fe0a8b4d.png)
-![image](https://user-images.githubusercontent.com/32612736/114272304-56269e80-9a1e-11eb-9f6e-51bc376b4ecb.png)
-![image](https://user-images.githubusercontent.com/32612736/114272362-8f5f0e80-9a1e-11eb-87c7-261e21adf01f.png)
-![image](https://user-images.githubusercontent.com/32612736/114272357-88d09700-9a1e-11eb-9d45-6999ff3df2df.png)
-![image](https://user-images.githubusercontent.com/32612736/114272389-a7369280-9a1e-11eb-8e69-edf6fe8a9b85.png)
-![image](https://user-images.githubusercontent.com/32612736/114272406-b87f9f00-9a1e-11eb-93d3-1e919e30ecf6.png)
+![image](https://user-images.githubusercontent.com/32612736/114272958-e9f96a00-9a20-11eb-82da-6427e62b2e06.png)
+![image](https://user-images.githubusercontent.com/32612736/114272975-f8e01c80-9a20-11eb-884b-21d64dc75d13.png)
+![image](https://user-images.githubusercontent.com/32612736/114272988-05fd0b80-9a21-11eb-9ad4-a648fa18c1ab.png)
+![image](https://user-images.githubusercontent.com/32612736/114272997-0eeddd00-9a21-11eb-82bc-3cb74b8d8634.png)
+![image](https://user-images.githubusercontent.com/32612736/114273009-1a410880-9a21-11eb-8326-fb31a782bcb7.png)
+![image](https://user-images.githubusercontent.com/32612736/114273016-24fb9d80-9a21-11eb-8bca-cc8edd8795d0.png)
+
 
